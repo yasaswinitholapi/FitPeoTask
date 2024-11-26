@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Navigate to the FitPeo Homepage]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to Revenvue calculator]]>
+    </line>
+    <line>
+      <![CDATA[Scroll down the page until the revenue calculator slider is visible]]>
+    </line>
+    <line>
+      <![CDATA[Adjust the slider]]>
+    </line>
+    <line>
+      <![CDATA[Drag the slider]]>
+    </line>
+    <line>
+      <![CDATA[updated the text field]]>
+    </line>
+    <line>
+      <![CDATA[slider value validated]]>
+    </line>
+    <line>
+      <![CDATA[selected the CPT codes]]>
+    </line>
+    <line>
+      <![CDATA[Validated Total Recurring Reimbursement]]>
+    </line>
+    <line>
+      <![CDATA[verified the header displaying total recurring reimbursement for all patients per month]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-26T20:05:19Z" name="Default suite" finished-at="2024-11-26T20:05:27Z" duration-ms="8579">
+    <groups>
+    </groups>
+    <test started-at="2024-11-26T20:05:19Z" name="Default test" finished-at="2024-11-26T20:05:27Z" duration-ms="8579">
+      <class name="Fitpeo_Automation3">
+        <test-method signature="Fitpeo_Automation()[pri:0, instance:Fitpeo_Automation3@5fb759d6]" started-at="2024-11-26T20:05:19Z" name="Fitpeo_Automation" finished-at="2024-11-26T20:05:27Z" duration-ms="8558" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigate to the FitPeo Homepage]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to Revenvue calculator]]>
+            </line>
+            <line>
+              <![CDATA[Scroll down the page until the revenue calculator slider is visible]]>
+            </line>
+            <line>
+              <![CDATA[Adjust the slider]]>
+            </line>
+            <line>
+              <![CDATA[Drag the slider]]>
+            </line>
+            <line>
+              <![CDATA[updated the text field]]>
+            </line>
+            <line>
+              <![CDATA[slider value validated]]>
+            </line>
+            <line>
+              <![CDATA[selected the CPT codes]]>
+            </line>
+            <line>
+              <![CDATA[Validated Total Recurring Reimbursement]]>
+            </line>
+            <line>
+              <![CDATA[verified the header displaying total recurring reimbursement for all patients per month]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Fitpeo_Automation -->
+      </class> <!-- Fitpeo_Automation3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
